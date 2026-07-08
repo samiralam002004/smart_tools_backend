@@ -11,7 +11,7 @@
   },
   {
     "id": "t3",
-    "text": "कभी किसी को छोटा न समझिए,\nहज़ारों के कपड़े शोरूम में लटकते रह गए और छोटा सा मास्क करोड़ो का व्यापार कर गया।",
+    "text": "कभी किसी को छोटा न समझिए,\nहज़ारों के कपड़े शोरूम में लटकते रह गए और छोटा सा मास्क करोड़ो का व्यापार कर गया।",
     "bgColor": "0xFF1A3B3A"
   },
   {
@@ -23,5 +23,3730 @@
     "id": "t5",
     "text": "Your limitation—it's only your imagination.\nPush yourself, because no one else is going to do it for you.",
     "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t6",
+    "text": "भीड़ हमेशा उस रास्ते पर चलती है जो रास्ता आसान लगता है,\nलेकिन इसका मतलब यह नहीं कि भीड़ हमेशा सही रास्ते पर है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t7",
+    "text": "सफलता की शुरुआत हमेशा 'मैं कर सकता हूँ' से होती है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t8",
+    "text": "Great things never come from comfort zones.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t9",
+    "text": "किस्मत मौका देती है, लेकिन मेहनत चौंका देती है।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t10",
+    "text": "वक्त से लड़कर जो नसीब बदल दे,\nइंसान वही जो अपनी तकदीर बदल दे।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t11",
+    "text": "Success doesn’t just find you.\nYou have to go out and get it.",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t12",
+    "text": "जब लोग आपसे खफा होने लग जाएं,\nतो समझ लेना आप सही राह पर हैं।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t13",
+    "text": "रास्ते कभी खत्म नहीं होते,\nबस लोग हिम्मत हार जाते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t14",
+    "text": "Dream it. Wish it. Do it.",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t15",
+    "text": "पानी में तस्वीर बना सकते हो तुम,\nकलाम को शमशेर बना सकते हो तुम!",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t16",
+    "text": "कामयाबी तक जाने वाले रास्ते सीधे नहीं होते,\nलेकिन कामयाबी मिलने पर सब सीधा हो जाता है।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t17",
+    "text": "Don’t stop when you’re tired. Stop when you’re done.",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t18",
+    "text": "अगर आप सूरज की तरह चमकना चाहते हैं,\nतो पहले सूरज की तरह जलना सीखें।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t19",
+    "text": "जिंदगी में रिस्क लेने से कभी मत डरो,\nया तो जीत मिलेगी और हार गए तो सीख मिलेगी।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t20",
+    "text": "Wake up with determination. Go to bed with satisfaction.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t21",
+    "text": "सोच को ले जाओ उस शिखर पर,\nताकि उसके आगे सितारे भी झुक जाएँ।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t22",
+    "text": "संघर्ष में आदमी अकेला होता है,\nसफलता में दुनिया उसके साथ होती है।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t23",
+    "text": "Do something today that your future self will thank you for.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t24",
+    "text": "मंजिल इंसान के हौसले आज़माती है,\nसपनों के पर्दे आँखों से हटाती है।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t25",
+    "text": "मैदान में हारा हुआ इंसान फिर से जीत सकता है,\nलेकिन मन से हारा हुआ इंसान कभी नहीं जीत सकता।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t26",
+    "text": "Little things make big days.",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t27",
+    "text": "कामयाब होने के लिए अकेले ही आगे बढ़ना पड़ता है,\nलोग तो पीछे तब आते हैं जब हम कामयाब होने लगते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t28",
+    "text": "चलता रहूँगा पथ पर, चलने में माहिर बन जाऊँगा,\nया तो मंजिल मिल जाएगी, या अच्छा मुसाफ़िर बन जाऊँगा।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t29",
+    "text": "It’s going to be hard, but hard does not mean impossible.",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t30",
+    "text": "सफलता कोई रहस्य नहीं है,\nयह तैयारी, कड़ी मेहनत और असफलता से सीखने का परिणाम है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t31",
+    "text": "हारना सबसे बुरी विफलता नहीं है,\nकोशिश न करना ही सबसे बड़ी विफलता है।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t32",
+    "text": "Don't wait for opportunity. Create it.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t33",
+    "text": "सिर्फ खड़े होकर पानी देखने से आप नदी पार नहीं कर सकते।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t34",
+    "text": "जिसने भी खुद को खर्च किया है,\nदुनिया ने उसी को गूगल पर सर्च किया है।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t35",
+    "text": "Sometimes we're tested not to show our weaknesses,\nbut to discover our strengths.",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t36",
+    "text": "उड़ने में बुराई नहीं है, आप भी उड़ें,\nलेकिन उतना ही जहाँ से जमीन साफ़ दिखाई दे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t37",
+    "text": "जितना कठिन संघर्ष होगा,\nजीत उतनी ही शानदार होगी।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t38",
+    "text": "The key to success is to focus on goals, not obstacles.",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t39",
+    "text": "ना पूछो कि मेरी मंज़िल कहाँ है,\nअभी तो सफर का इरादा किया है।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t40",
+    "text": "तमाशा लोग नहीं हम खुद बनाते हैं अपनी जिंदगी का,\nहर किसी को अपनी कमजोरी बताकर।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t41",
+    "text": "Dream bigger. Do bigger.",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t42",
+    "text": "मंजिलें क्या है, रास्ता क्या है,\nहौसला हो तो फासला क्या है।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t43",
+    "text": "कठिन समय में कायर बहाने ढूंढते हैं,\nऔर बहादुर व्यक्ति रास्ता खोजते हैं।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t44",
+    "text": "Success is what happens after you have survived all your mistakes.",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t45",
+    "text": "वक्त आपका है,\nचाहो तो सोना बना लो, चाहो तो सोने में गुज़ार दो।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t46",
+    "text": "जीवन में गिरना भी अच्छा है,\nऔकात का पता चलता है।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t47",
+    "text": "Make today so awesome yesterday gets jealous.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t48",
+    "text": "जो तूफानों में पलते जा रहे हैं,\nवही दुनिया बदलते जा रहे हैं।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t49",
+    "text": "मुसीबतों से निखरती है शख्सियत यारों,\nजो चट्टानों से ना उलझे वो झरना किस काम का।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t50",
+    "text": "Doubt kills more dreams than failure ever will.",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t51",
+    "text": "आज बादलों ने फिर साज़िश की,\nजहाँ मेरा घर था वहीं बारिश की।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t52",
+    "text": "यूँ ही नहीं मिलती राही को मंज़िल,\nएक जुनून सा दिल में जगाना होता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t53",
+    "text": "You don’t have to be perfect to be amazing.",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t54",
+    "text": "शौक को कभी पाला नहीं जाता,\nकांच के खिलौनों को कभी उछाला नहीं जाता।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t55",
+    "text": "बुरे वक्त में कंधे पर रखा गया हाथ,\nकामयाबी पर बजने वाली तालियों से ज्यादा मूल्यवान होता है।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t56",
+    "text": "Action is the foundational key to all success.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t57",
+    "text": "मिल ही जाएगी मंज़िल भटकते-भटकते,\nगुमराह तो वो हैं जो घर से निकले ही नहीं।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t58",
+    "text": "पीठ हमेशा मजबूत रखनी चाहिए,\nक्योंकि शाबाशी और धोखा दोनों पीछे से ही मिलते हैं।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t59",
+    "text": "If it doesn’t challenge you, it doesn’t change you.",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t60",
+    "text": "इंसान असफल तब नहीं होता जब वह हार जाता है,\nअसफल तब होता है जब वह सोच लेता है कि अब वह जीत नहीं सकता।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t61",
+    "text": "अगर मेहनत आदत बन जाए,\nतो कामयाबी मुकद्दर बन जाती है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t62",
+    "text": "Stop doubting yourself, work hard, and make it happen.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t63",
+    "text": "हौसले के तरकश में कोशिश का वो तीर ज़िंदा रखो,\nहार जाओ चाहे ज़िन्दगी में सब कुछ, मगर फिर से जीतने की उम्मीद ज़िंदा रखो।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t64",
+    "text": "सिर्फ सोचने से कहाँ मिलते हैं तमन्नाओं के शहर,\nचलने की जिद भी जरुरी है मंजिलों को पाने के लिए।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t65",
+    "text": "A negative mind will never give you a positive life.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t66",
+    "text": "अकेले ही लड़नी होती है ज़िंदगी की लड़ाई,\nलोग सिर्फ तसल्ली देते हैं साथ नहीं।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t67",
+    "text": "कमज़ोर लोग तब रुकते हैं जब वे थक जाते हैं,\nऔर विजेता तब रुकते हैं जब वे जीत जाते हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t68",
+    "text": "Work hard in silence, let your success be your noise.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t69",
+    "text": "सफ़र में मुश्किलें आएँ तो जुर्रत और बढ़ती है,\nकोई जब रास्ता रोके तो हिम्मत और बढ़ती है।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t70",
+    "text": "जहाँ कोशिशों का कद बड़ा होता है,\nवहाँ नसीबों को भी झुकना पड़ता है।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t71",
+    "text": "Your only limit is you.",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t72",
+    "text": "जिन्हें अपने काम से प्यार होता है,\nउनकी सुबह अलार्म से नहीं, काम के जुनून से होती है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t73",
+    "text": "जब दुनिया कहती है कि अब कुछ नहीं हो सकता,\nतब उम्मीद चुपके से कहती है कि एक बार और कोशिश कर।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t74",
+    "text": "Success is a journey, not a destination.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t75",
+    "text": "खुद को इतना कमजोर मत होने दो,\nकि तुम्हें किसी के एहसान की जरुरत हो।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t76",
+    "text": "समय ना लगाओ तय करने में कि आपको क्या करना है,\nवरना समय तय कर लेगा कि आपका क्या करना है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t77",
+    "text": "Believe you can and you're halfway there.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t78",
+    "text": "खोल दे पंख मेरे कहता है परिंदा,\nअभी और उड़ान बाकी है।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t79",
+    "text": "ज़मीन पर बैठकर क्या आसमान देखता है,\nपंखों को खोल जमाना सिर्फ उड़ान देखता है।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t80",
+    "text": "Failure is the opportunity to begin again more intelligently.",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t81",
+    "text": "सफलता पहले से की गयी तैयारियों पर निर्भर करती है,\nबिना सही तैयारी के असफलता निश्चित है।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t82",
+    "text": "बुरा वक्त एक ऐसी तिजोरी है,\nजहाँ से सफलता के हथियार मिलते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t83",
+    "text": "Focus on your goal. Don't look in any direction but ahead.",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t84",
+    "text": "ना कोई कठिनाई ना कोई तकलीफ,\nतो क्या मज़ा है जीने में।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t85",
+    "text": "जो सिरफिरे होते हैं वही इतिहास लिखते हैं,\nसमझदार लोग तो सिर्फ उनके बारे में पढ़ते हैं।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t86",
+    "text": "Prove them wrong.",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t87",
+    "text": "हमेशा याद रखो कि आपकी वर्तमान स्थिति आपका अंतिम गंतव्य नहीं है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t88",
+    "text": "मेहनत सीढ़ियों की तरह होती है और भाग्य लिफ्ट की तरह,\nकिसी समय लिफ्ट तो बंद हो सकती है पर सीढ़ियां हमेशा ऊपर ले जाती हैं।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t89",
+    "text": "Don't tell people your plans. Show them your results.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t90",
+    "text": "कड़ी मेहनत आपको वहां पहुँचा देती है,\nजहाँ अच्छी किस्मत शायद आपको ना पहुँचा पाए।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t91",
+    "text": "इंतजार करने वालों को सिर्फ उतना ही मिलता है,\nजितना कोशिश करने वाले छोड़ देते हैं।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t92",
+    "text": "Be stronger than your excuses.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t93",
+    "text": "जब थक जाओ तो आराम कर लो,\nलेकिन कभी हार मत मानो।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t94",
+    "text": "आज जो आप कर रहे हैं,\nवही आपके कल का निर्माण करेगा।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t95",
+    "text": "Discipline is choosing between what you want now and what you want most.",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t96",
+    "text": "गलतियां इस बात का सुबूत हैं,\nकि आप प्रयास कर रहे हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t97",
+    "text": "हर छोटा बदलाव एक बड़ी सफलता का हिस्सा होता है।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t98",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t99",
+    "text": "अपने सपनों को जिंदा रखिए,\nअगर आपके सपनों की चिंगारी बुझ गई है, तो मतलब आपने जीते जी आत्महत्या कर ली है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t100",
+    "text": "जिंदगी बदलने के लिए लड़ना पड़ता है,\nऔर आसान करने के लिए समझना पड़ता है।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t101",
+    "text": "Hard work beats talent when talent doesn't work hard.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t102",
+    "text": "जो हो गया उसे सोचा नहीं करते,\nजो मिल गया उसे खोया नहीं करते।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t103",
+    "text": "अगर तुम उस वक़्त मुस्कुरा सकते हो जब तुम पूरी तरह टूट चुके हो,\nतो यकीन कर लो कि दुनिया में तुम्हें कभी कोई नहीं तोड़ सकता।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t104",
+    "text": "Push yourself because no one else is going to do it for you.",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t105",
+    "text": "जीत निश्चित हो तो कायर भी लड़ सकते हैं,\nबहादुर वे कहलाते हैं जो हार निश्चित हो, फिर भी मैदान नहीं छोड़ते।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t106",
+    "text": "अपने लक्ष्य को तब तक मत छोड़ो,\nजब तक आप उसे पा नहीं लेते।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t107",
+    "text": "Success is not given. It is earned.",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t108",
+    "text": "कुछ आरंभ करने के लिए आपका महान होना जरुरी नहीं है,\nलेकिन महान होने के लिए आपका कुछ आरंभ करना बहुत जरुरी है।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t109",
+    "text": "अक्सर अकेलेपन से वही गुजरता है,\nजो जिंदगी में सही फैसलों को चुनता है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t110",
+    "text": "Fall seven times, stand up eight.",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t111",
+    "text": "अगर आप हार नहीं मानते,\nतो आपको कोई हरा नहीं सकता।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t112",
+    "text": "जो मंजिलों को पाने की चाहत रखते हैं,\nवो समंदरों पर भी पत्थरों के पुल बना देते हैं।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t113",
+    "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t114",
+    "text": "जो व्यक्ति अपने अंदर से অহंकार निकाल देता है,\nवही हकीकत में कुछ बड़ा कर सकता है।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t115",
+    "text": "जब रास्तों पर चलते चलते मंजिल का ख्याल ना आए,\nतो आप सही रास्ते पर हैं।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t116",
+    "text": "Dreams don't work unless you do.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t117",
+    "text": "जिनके इरादे मेहनत की स्याही से लिखे होते हैं,\nउनकी किस्मत के पन्ने कभी खाली नहीं होते।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t118",
+    "text": "बुरे वक्त में जो इंसान खुद को संभाल लेता है,\nवही आगे चलकर दुनिया को संभालता है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t119",
+    "text": "Excuses will always be there for you, opportunity won't.",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t120",
+    "text": "जो लोग आपको पर्सनली नहीं जानते,\nउनकी बातों को पर्सनली मत लिया करो।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t121",
+    "text": "हर दिन एक नई शुरुआत है,\nगहरी सांस लें, मुस्कराएं और फिर से शुरू करें।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t122",
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t123",
+    "text": "एक सपनें के टूटकर चकनाचूर हो जाने के बाद,\nदूसरा सपना देखने के हौसले को ही 'ज़िंदगी' कहते हैं।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t124",
+    "text": "सफलता का कोई शॉर्टकट नहीं होता,\nइसके लिए सीढ़ियां ही चढ़नी पड़ती हैं।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t125",
+    "text": "You become what you believe.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t126",
+    "text": "संघर्ष इंसान को मजबूत बनाता है,\nफिर चाहे वह कितना भी कमजोर क्यों न हो।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t127",
+    "text": "वही सफल होता है,\nजिसका काम उसे निरंतर ख़ुशी देता है।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t128",
+    "text": "Never give up on a dream just because of the time it will take to accomplish it.",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t129",
+    "text": "भरोसा खुद पर रखो तो ताकत बन जाती है,\nऔर दूसरों पर रखो तो कमजोरी बन जाती है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t130",
+    "text": "सफल लोग कोई अलग काम नहीं करते,\nवे बस अलग तरीके से काम करते हैं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t131",
+    "text": "Change your thoughts and you change your world.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t132",
+    "text": "कामयाबी के दरवाजे उन्हीं के लिए खुलते हैं,\nजो उन्हें खटखटाने की ताकत रखते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t133",
+    "text": "महानता कभी न गिरने में नहीं है,\nबल्कि हर बार गिरकर उठ जाने में है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t134",
+    "text": "Stay positive, work hard, make it happen.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t135",
+    "text": "चुपचाप मेहनत करते रहो,\nतुम्हारी सफलता ही तुम्हारा शोर मचाएगी।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t136",
+    "text": "परिस्थितियां जितनी ज्यादा आपको तोड़ती हैं,\nउससे कहीं ज्यादा आपको मजबूत बना देती हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t137",
+    "text": "Your future is created by what you do today, not tomorrow.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t138",
+    "text": "कुछ बड़ा करना है तो अपनी राह खुद चुनो,\nभेड़-बकरियों की तरह भीड़ का हिस्सा मत बनो।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t139",
+    "text": "जिंदगी में आप कितनी बार हारे,\nये कोई मायने नहीं रखता, क्योंकि आप जीतने के लिए पैदा हुए हैं।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t140",
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t141",
+    "text": "भीड़ का हिस्सा बनना बहुत आसान है,\nलेकिन अकेले खड़े रहने के लिए बहुत साहस चाहिए।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t142",
+    "text": "बिना लक्ष्य के जीने वाले इंसान की जिंदगी,\nउस बंद लिफाफे की तरह है जिस पर कोई पता न लिखा हो।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t143",
+    "text": "There are no limits to what you can accomplish, except the limits you place on your own thinking.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t144",
+    "text": "दुनिया की हर परेशानी आपकी हिम्मत के आगे घुटने टेक देती है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t145",
+    "text": "जब भी तुम्हारा हौसला आसमान तक जाएगा,\nयाद रखना कोई ना कोई तुम्हारे पंख काटने जरूर आएगा।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t146",
+    "text": "It always seems impossible until it's done.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t147",
+    "text": "लहरों को शांत देखकर ये मत समझना कि समंदर में रवानी नहीं है,\nजब भी उठेंगे तूफान बनकर उठेंगे।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t148",
+    "text": "मंजिल पाना तो बहुत दूर की बात है,\nगर गुरूर में रहोगे, तो रास्ते भी न देख पाओगे।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t149",
+    "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t150",
+    "text": "नामुमकिन कुछ भी नहीं है,\nहम वो सब कर सकते हैं जो हम सोच सकते हैं।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t151",
+    "text": "किसी के पैरों में गिरकर कामयाबी पाने से बेहतर है,\nअपने पैरों पर चलकर कुछ बनने की ठान लो।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t152",
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t153",
+    "text": "सफलता का मुख्य आधार,\nसकारात्मक सोच और निरंतर प्रयास है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t154",
+    "text": "मैदान में हारा हुआ इंसान फिर से जीत सकता है,\nमगर मन से हारा हुआ इंसान कभी नहीं जीत सकता।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t155",
+    "text": "Action is the fundamental key to all success.",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t156",
+    "text": "ज़िंदगी में जो हम चाहते हैं वो आसानी से नहीं मिलता,\nलेकिन ज़िंदगी का सच यह है कि हम भी वही चाहते हैं जो आसान नहीं होता।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t157",
+    "text": "हवाओं के भरोसे मत उड़,\nचट्टानें तूफानों का भी रुख मोड़ देती हैं।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t158",
+    "text": "Success is falling nine times and getting up ten.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t159",
+    "text": "हर रोता हुआ लम्हा मुस्कुराएगा,\nसब्र रख ऐ दोस्त, वक्त अपना भी आएगा।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t160",
+    "text": "किस्मत का तो मुझे पता नहीं,\nलेकिन मेरी मेहनत मुझे एक दिन जरूर कामयाब बनाएगी।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t161",
+    "text": "Don't let yesterday take up too much of today.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t162",
+    "text": "वक्त से पहले मिली चीजें अपना मूल्य खो देती हैं,\nऔर वक्त के बाद मिली चीजें अपना महत्व।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t163",
+    "text": "उठो, जागो और तब तक मत रुको,\nजब तक लक्ष्य की प्राप्ति न हो जाए।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t164",
+    "text": "Do what you can, with what you have, where you are.",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t165",
+    "text": "जिंदगी खेलती भी उसी के साथ है,\nजो खिलाड़ी बेहतरीन होता है।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t166",
+    "text": "दर्द सबके एक से हैं, मगर हौंसले सबके अलग-अलग हैं,\nकोई हताश हो के बिखर जाता है, तो कोई संघर्ष करके निखर जाता है।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t167",
+    "text": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t168",
+    "text": "बुरा वक्त आपको कमजोर नहीं,\nबल्कि मजबूत बनाने आता है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t169",
+    "text": "जितना बड़ा सपना होगा, उतनी ही बड़ी तकलीफ़ें होंगी,\nऔर जितनी बड़ी तकलीफ़ें होंगी, उतनी ही बड़ी कामयाबी होगी।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t170",
+    "text": "To see what is right and not do it is a lack of courage.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t171",
+    "text": "अगर जीवन में कुछ पाना है,\nतो अपने तरीके बदलो, इरादे नहीं।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t172",
+    "text": "मुश्किलों से भाग जाना आसान होता है,\nहर पहलू जिंदगी का इम्तिहान होता है।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t173",
+    "text": "Don’t stop until you’re proud.",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t174",
+    "text": "जो लोग गिरने से डरते हैं,\nवो कभी उड़ान नहीं भर सकते।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t175",
+    "text": "रास्ते मुश्किल हैं पर हम मंज़िल जरूर पाएंगे,\nये जो किस्मत अकड़ कर बैठी है, इसे भी हम हराएंगे।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t176",
+    "text": "Your passion is waiting for your courage to catch up.",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t177",
+    "text": "पानी को बर्फ़ में बदलने में वक़्त लगता है,\nढले हुए सूरज को निकलने में वक़्त लगता है।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t178",
+    "text": "थोड़ा धीरज रख, थोड़ा ज़ोर लगाता रह,\nकिस्मत के जंग लगे दरवाज़े को खुलने में वक़्त लगता है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t179",
+    "text": "Everything you’ve ever wanted is on the other side of fear.",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t180",
+    "text": "संघर्ष आपकी क्षमता को बढ़ाता है,\nऔर आपको सफलता के करीब लाता है।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t181",
+    "text": "बिना संघर्ष के कोई महान नहीं बनता,\nपत्थर पर जब तक चोट न पड़े, पत्थर भी भगवान नहीं बनता।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t182",
+    "text": "Make each day your masterpiece.",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t183",
+    "text": "सफलता की सबसे खास बात यह है कि,\nवो मेहनत करने वालों पर फ़िदा हो जाती है।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t184",
+    "text": "सिर्फ सपनों से कुछ नहीं होता,\nसफलता प्रयासों से हासिल होती है।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t185",
+    "text": "Opportunities don't happen, you create them.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t186",
+    "text": "मेहनत इतनी ख़ामोशी से करो,\nकि तुम्हारी सफलता शोर मचा दे।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t187",
+    "text": "जो तूफानों में पलते जा रहे हैं,\nवही दुनिया बदलते जा रहे हैं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t188",
+    "text": "You are your only limit.",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t189",
+    "text": "अगर कुछ सीखना है तो अपनी गलतियों से सीखो,\nदूसरों पर उंगली उठाने से कुछ हासिल नहीं होगा।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t190",
+    "text": "जिनमे अकेले चलने का हौंसला होता है,\nउनके पीछे एक दिन काफिला होता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t191",
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t192",
+    "text": "जो बीत गया उस पर बात मत कीजिए,\nऔर जो वक्त बच गया है उसे बर्बाद मत कीजिए।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t193",
+    "text": "लोग क्या कहेंगे यह सोचना छोड़ दो,\nक्योंकि जिंदगी आपकी है, लोगों की नहीं।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t194",
+    "text": "Believe in yourself and all that you are.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t195",
+    "text": "खुद को बेहतर बनाने में इतना समय लगाओ,\nकि दूसरों की आलोचना करने का समय ही ना मिले।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t196",
+    "text": "जिंदगी में कोई भी रास्ता अपने आप नहीं बनता,\nइंसान खुद अपना रास्ता बनाता है।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t197",
+    "text": "Strive for progress, not perfection.",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t198",
+    "text": "जब तुम पैदा हुए थे तो तुम रोए थे जबकि पूरी दुनिया ने जश्न मनाया था,\nअपना जीवन ऐसे जियो कि तुम्हारी मौत पर पूरी दुनिया रोए और तुम जश्न मनाओ।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t199",
+    "text": "जब तक आप अपनी समस्याओं एंव कठिनाइयों की वजह दूसरों को मानते है,\nतब तक आप अपनी समस्याओं एंव कठिनाइयों को मिटा नहीं सकते।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t200",
+    "text": "You miss 100% of the shots you don't take.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t201",
+    "text": "इंसान कहता है कि पैसा आये तो मैं कुछ कर के दिखाऊ,\nऔर पैसा कहता है कि तू कुछ कर के दिखा तो मैं आऊं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t202",
+    "text": "अगर आप समय का महत्व नहीं जानते,\nतो आप सफल होने के लायक नहीं हैं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t203",
+    "text": "A goal without a timeline is just a dream.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t204",
+    "text": "खुद की तरक्की में इतना वक्त लगा दो,\nकि दूसरों की बुराई करने का वक्त ही न मिले।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t205",
+    "text": "वक्त और हालात सदा बदलते रहते हैं,\nलेकिन अच्छे रिश्ते और सच्चे दोस्त कभी नहीं बदलते।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t206",
+    "text": "Don't wish it were easier. Wish you were better.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t207",
+    "text": "कामयाब व्यक्ति की सिर्फ चमक लोगों को दिखाई देती है,\nउसने कितने अंधेरे देखे हैं, यह कोई नहीं जानता।",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t208",
+    "text": "अगर आप कुछ ऐसा पाना चाहते हैं जो आपने पहले कभी नहीं पाया,\nतो आपको कुछ ऐसा करना पड़ेगा जो आपने पहले कभी नहीं किया।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t209",
+    "text": "Focus on the step in front of you, not the whole staircase.",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t210",
+    "text": "जिससे कोई उम्मीद नहीं होती,\nअक्सर वही कमाल करते हैं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t211",
+    "text": "मुसीबतें चाय की पत्ती की तरह होती हैं,\nऔर सफलता उबलते हुए पानी की तरह।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t212",
+    "text": "We generate fears while we sit. We overcome them by action.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t213",
+    "text": "मेहनत का फल और समस्या का हल,\nदेर से ही सही लेकिन मिलता जरूर है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t214",
+    "text": "कोई भी लक्ष्य मनुष्य के साहस से बड़ा नहीं,\nहारा वही जो लड़ा नहीं।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t215",
+    "text": "Small daily improvements are the key to staggering long-term results.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t216",
+    "text": "बुरे समय में जो आपका साथ दे,\nउसे अच्छे समय में कभी मत भूलना।",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t217",
+    "text": "उम्र थका नहीं सकती, ठोकरें गिरा नहीं सकती,\nअगर ज़िद्द हो जीतने की तो हार भी हरा नहीं सकती।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t218",
+    "text": "Always do your best. What you plant now, you will harvest later.",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t219",
+    "text": "कठोर परिश्रम कभी भी विफल नहीं होता।",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t220",
+    "text": "अपने मन को इतना मजबूत बनाओ कि,\nकिसी की भी नकारात्मक बात आप पर हावी ना हो सके।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t221",
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t222",
+    "text": "जीतने वाला ही नहीं, बल्कि कहाँ पर हारना है,\nये जानने वाला भी महान होता है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t223",
+    "text": "सफलता की राह और असफलता का रास्ता,\nलगभग एक जैसे ही होते हैं।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t224",
+    "text": "There is no elevator to success, you have to take the stairs.",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t225",
+    "text": "यदि आप अपनी गलतियों से सीखते हैं,\nतो गलतियां आपके लिए सीढ़ी बन सकती हैं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t226",
+    "text": "अगर आप सही हो तो कुछ सही साबित करने की कोशिश ना करो,\nबस सही बने रहो गवाही खुद वक्त देगा।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t227",
+    "text": "Turn your wounds into wisdom.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t228",
+    "text": "दुनिया की सबसे अच्छी किताब हम स्वयं हैं,\nखुद को समझ लीजिए सब समस्याएं हल हो जाएंगी।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t229",
+    "text": "मुश्किलें हमेशा बेहतरीन लोगों के हिस्से में आती हैं,\nक्योंकि वे लोग ही उसे बेहतरीन तरीके से अंजाम देने की ताकत रखते हैं।",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t230",
+    "text": "If opportunity doesn’t knock, build a door.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t231",
+    "text": "अपनी हार का जश्न ऐसे मनाओ,\nकि जीतने वाले को भी अफसोस हो जाए।",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t232",
+    "text": "अच्छे दिन सिर्फ घर बैठने से नहीं आते,\nबल्कि बुरे दिनों से लड़ने पर आते हैं।",
+    "bgColor": "0xFF8BA583"
+  },
+  {
+    "id": "t233",
+    "text": "Success usually comes to those who are too busy to be looking for it.",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t234",
+    "text": "जो लक्ष्य में खो गया,\nसमझो वही सफल हो गया।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t235",
+    "text": "मेहनत का रास्ता मुश्किल जरूर होता है,\nपर मंजिल बहुत खूबसूरत होती है।",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t236",
+    "text": "Don't limit your challenges. Challenge your limits.",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t237",
+    "text": "अगर आप जीवन में कुछ बड़ा करना चाहते हैं,\nतो सबसे पहले अपने डर को हराएं।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t238",
+    "text": "सच्चाई का रास्ता हमेशा काँटों भरा होता है,\nलेकिन मंज़िल हमेशा सुकून देने वाली होती है।",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t239",
+    "text": "It’s never too late to be what you might have been.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t240",
+    "text": "एक मिनट की सफलता,\nबरसों की असफलता की कीमत चुका देती है।",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t241",
+    "text": "सफलता का कोई मंत्र नहीं है,\nयह तो सिर्फ कठोर परिश्रम का फल है।",
+    "bgColor": "0xFF263238"
+  },
+  {
+    "id": "t242",
+    "text": "The secret of getting ahead is getting started.",
+    "bgColor": "0xFF3E2723"
+  },
+  {
+    "id": "t243",
+    "text": "अपने भविष्य की भविष्यवाणी करने का सबसे अच्छा तरीका,\nइसे खुद बनाना है।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t244",
+    "text": "जहाँ तक रास्ता दिख रहा है वहाँ तक चलिए,\nआगे का रास्ता वहाँ पहुँचने के बाद दिखने लगेगा।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t245",
+    "text": "Wake up, smile and tell yourself: Today is my day.",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t246",
+    "text": "अगर आप एक ही गलती को दो बार करते हैं,\nतो वो गलती नहीं आपकी चॉइस है।",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t247",
+    "text": "हार से डरो मत, क्योंकि हारना ही,\nजीतने की पहली सीढ़ी है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t248",
+    "text": "Don’t quit. Suffer now and live the rest of your life as a champion.",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t249",
+    "text": "जब इंसान के अंदर कुछ कर गुजरने की आग होती है,\nतो उसे कोई बाधा रोक नहीं सकती।",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t250",
+    "text": "अगर आप हार मान लेते हैं,\nतो आपका संघर्ष वहीं खत्म हो जाता है।",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t251",
+    "text": "सपने वो नहीं जो हम सोते हुए देखते हैं,\nसपने वो हैं जो हमें सोने नहीं देते।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t252",
+    "text": "Success is not final, failure is not fatal:\nIt is the courage to continue that counts.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t253",
+    "text": "कामयाब लोग अपने फैसले से दुनिया बदल देते हैं,\nऔर नाकामयाब लोग दुनिया के डर से अपने फैसले बदल लेते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t254",
+    "text": "Your time is limited,\nso don't waste it living someone else's life.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t255",
+    "text": "इत्र से कपड़ों का महकना कोई बड़ी बात नहीं है,\nमज़ा तो तब है जब आपके किरदार से खुशबू आए।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t256",
+    "text": "The harder the conflict,\nthe more glorious the triumph.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t257",
+    "text": "रास्ते में कंकड़ ही कंकड़ हों तो भी एक अच्छा जूता पहनकर चला जा सकता है,\nलेकिन जूते के अंदर एक भी कंकड़ हो तो अच्छी सड़क पर भी चलना मुश्किल है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t258",
+    "text": "It does not matter how slowly you go\nas long as you do not stop.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t259",
+    "text": "अगर आसमान वाले से आपके रिश्ते मज़बूत हैं,\nतो ज़मीन वाले आपका कुछ नहीं बिगाड़ सकते।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t260",
+    "text": "Motivation is what gets you started.\nHabit is what keeps you going.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t261",
+    "text": "मंजिलें उन्हीं को मिलती हैं जिनके सपनों में जान होती है,\nपंखों से कुछ नहीं होता, हौसलों से उड़ान होती है।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t262",
+    "text": "Be the change that you wish to see in the world.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t263",
+    "text": "जब आंखों में अरमान लिया, मंजिल को अपना मान लिया,\nहै मुश्किल क्या आसान क्या, जब ठान लिया तो ठान लिया।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t264",
+    "text": "The only way to do great work is to love what you do.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t265",
+    "text": "उम्मीदों की कश्ती को डुबोया नहीं करते,\nमंज़िल दूर हो तो थक कर रोया नहीं करते।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t266",
+    "text": "Everything you can imagine is real.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t267",
+    "text": "जो खैरात में मिलती कामयाबी तो हर शख्स कामयाब होता,\nफिर कद्र न होती किसी हुनर की और न ही कोई शख्स लाजवाब होता।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t268",
+    "text": "Don't let the fear of losing be greater than the excitement of winning.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t269",
+    "text": "जो पानी से नहाएगा वो सिर्फ लिबास बदलेगा,\nजो पसीने से नहाएगा वो इतिहास बदलेगा।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t270",
+    "text": "I find that the harder I work, the more luck I seem to have.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t271",
+    "text": "जिंदगी में तपिश कितनी भी हो कभी हताश मत होना,\nक्योंकि धूप कितनी भी तेज हो समंदर कभी सूखा नहीं करते।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t272",
+    "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t273",
+    "text": "अपनी कमियों को सिर्फ हम दूर कर सकते हैं,\nकोई और सिर्फ इसका फायदा उठा सकता है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t274",
+    "text": "Do not wait to strike till the iron is hot,\nbut make it hot by striking.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t275",
+    "text": "अगर आप किसी चीज़ को पाना चाहते हैं,\nतो उसे पाने के लिए हर हद पार कर दीजिये।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t276",
+    "text": "It always seems impossible until it's done.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t277",
+    "text": "आपकी सबसे बड़ी कमजोरी तब होती है जब आप हार मान लेते हैं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t278",
+    "text": "The future belongs to those who prepare for it today.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t279",
+    "text": "खुद पर विश्वास करना ही,\nसफलता की पहली सीढ़ी है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t280",
+    "text": "Don’t wait for the right opportunity: create it.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t281",
+    "text": "जो व्यक्ति कभी गलती नहीं करता,\nउसने कभी कुछ नया करने की कोशिश नहीं की।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t282",
+    "text": "A winner is a dreamer who never gives up.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t283",
+    "text": "असंभव शब्द का प्रयोग केवल कायर करते हैं,\nबहादुर और बुद्धिमान व्यक्ति अपना मार्ग खुद बनाते हैं।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t284",
+    "text": "What you do today can improve all your tomorrows.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t285",
+    "text": "जीवन में सबसे बड़ी ख़ुशी उस काम को करने में है,\nजिसे लोग कहते हैं कि तुम नहीं कर सकते।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t286",
+    "text": "Only I can change my life. No one can do it for me.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t287",
+    "text": "जिनकी सोच बड़ी होती है,\nउन्हें छोटी-छोटी परेशानियां कभी नहीं रोक सकतीं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t288",
+    "text": "Do or do not. There is no try.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t289",
+    "text": "ताकत आवाज में नहीं अपने विचारों में रखो,\nक्योंकि फसल बारिश से होती है, बाढ़ से नहीं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t290",
+    "text": "Quality means doing it right when no one is looking.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t291",
+    "text": "इंसान की संपत्ति नापी जा सकती है,\nलेकिन उसकी मेहनत और लगन कभी नहीं मापी जा सकती।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t292",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t293",
+    "text": "नकारात्मक सोच वाले इंसान को हर अवसर में मुश्किले नज़र आती हैं,\nऔर सकारात्मक व्यक्ति को हर मुश्किल में अवसर।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t294",
+    "text": "Well done is better than well said.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t295",
+    "text": "धैर्य कड़वा होता है,\nलेकिन इसका फल बहुत मीठा होता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t296",
+    "text": "It always looks impossible until you finally complete it.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t297",
+    "text": "परेशानियां कभी ख़त्म नहीं होंगी,\nबस हमें उन्हें पार करने का तरीका बदलना होगा।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t298",
+    "text": "We may encounter many defeats but we must not be defeated.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t299",
+    "text": "भविष्य इस बात पर निर्भर करता है,\nकि आज आप क्या कर रहे हैं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t300",
+    "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t301",
+    "text": "जो इंसान खुद को कंट्रोल कर सकता है,\nवो जिंदगी में कुछ भी कर सकता है।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t302",
+    "text": "Act as if what you do makes a difference. It does.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t303",
+    "text": "अपने बीते हुए कल से सीखें,\nआज में जियें और आने वाले कल की तैयारी करें।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t304",
+    "text": "You do not find the happy life. You make it.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t305",
+    "text": "कभी-कभी खामोशी,\nहज़ार शब्दों से ज्यादा असरदार होती है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t306",
+    "text": "A champion is defined not by their wins but by how they can recover when they fall.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t307",
+    "text": "अगर आप समय की कद्र करेंगे,\nतो समय आपकी कद्र करेगा।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t308",
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t309",
+    "text": "गलतियां जीवन का हिस्सा हैं,\nइन्हें स्वीकार करना ही आगे बढ़ने का सही रास्ता है।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t310",
+    "text": "The best revenge is massive success.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t311",
+    "text": "जो आपकी बुराई करते हैं,\nउन्हें अपना काम करने दें क्योंकि वे वही कर सकते हैं जो वो कर रहे हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t312",
+    "text": "Keep your eyes on the stars, and your feet on the ground.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t313",
+    "text": "सफलता कोई मंज़िल नहीं,\nबल्कि एक सफर है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t314",
+    "text": "Everything has beauty, but not everyone can see.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t315",
+    "text": "अच्छे लोगों के साथ रहोगे,\nतो आपकी भी सोच वैसी ही हो जाएगी।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t316",
+    "text": "Be happy for this moment. This moment is your life.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t317",
+    "text": "जीवन में पछतावा करना छोड़ दो,\nबल्कि कुछ ऐसा करो कि तुम्हें छोड़ने वाले पछताएं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t318",
+    "text": "When words fail, actions speak.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t319",
+    "text": "सफलता की कहानी तभी शुरू होती है,\nजब बहाने बनाना बंद कर दिया जाता है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t320",
+    "text": "Opportunities multiply as they are seized.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t321",
+    "text": "जो लोग गिरने से नहीं डरते,\nवही जिंदगी में ऊँची उड़ान भरते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t322",
+    "text": "I will go anywhere as long as it is forward.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t323",
+    "text": "अपनी मेहनत पर इतना भरोसा रखो,\nकि एक दिन क़िस्मत भी आपके सामने घुटने टेक दे।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t324",
+    "text": "Turn your obstacles into opportunities and your problems into possibilities.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t325",
+    "text": "जब आपकी आवाज़ किसी को चुभने लगे,\nतो समझ लेना कि आप सच बोल रहे हैं।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t326",
+    "text": "Tough times never last, but tough people do.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t327",
+    "text": "अगर आपकी सोच बड़ी है,\nतो रास्ते खुद-ब-खुद निकल आते हैं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t328",
+    "text": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t329",
+    "text": "मंज़िलें चाहे कितनी भी ऊँची क्यों न हों,\nरास्ते हमेशा पैरों के नीचे से ही जाते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t330",
+    "text": "What seems to us as bitter trials are often blessings in disguise.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t331",
+    "text": "अगर कोई इंसान खामोश है,\nतो इसका मतलब ये नहीं कि उसे बोलना नहीं आता।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t332",
+    "text": "There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t333",
+    "text": "जीत हासिल करनी हो तो काबिलियत बढ़ाओ,\nकिस्मत की रोटी तो कुत्तों को भी मिला करती है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t334",
+    "text": "Don’t let someone else’s opinion of you become your reality.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t335",
+    "text": "मूर्ख व्यक्ति दूसरों को बर्बाद करने में अपना वक्त बिताता है,\nजबकि बुद्धिमान व्यक्ति खुद को आबाद करने में।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t336",
+    "text": "The meaning of life is to find your gift. The purpose of life is to give it away.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t337",
+    "text": "कभी-कभी हारना भी ज़रूरी होता है,\nताकि हमें हमारी कमजोरियों का पता चल सके।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t338",
+    "text": "Do not let what you cannot do interfere with what you can do.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t339",
+    "text": "उम्र भर उठाया बोझ उस कील ने,\nऔर लोग तारीफ उस पर टंगी तस्वीर की कर रहे थे।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t340",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t341",
+    "text": "यदि आप सही रास्ते पर चल रहे हैं,\nतो आपको कोई भी गिरा नहीं सकता।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t342",
+    "text": "The road to success and the road to failure are almost exactly the same.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t343",
+    "text": "कभी हार मत मानो,\nक्या पता आपकी अगली कोशिश ही आपको कामयाबी दिला दे।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t344",
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t345",
+    "text": "वक्त आपका है,\nचाहे तो सोना बना लो, चाहे सोने में गुज़ार दो।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t346",
+    "text": "Life is what happens to you while you're busy making other plans.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t347",
+    "text": "सफलता का कोई पैमाना नहीं होता,\nयह आपकी मेहनत पर निर्भर करती है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t348",
+    "text": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t349",
+    "text": "अगर आप कुछ सोच सकते हैं,\nतो यकीन मानिए आप उसे कर भी सकते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t350",
+    "text": "Failure is another steppingstone to greatness.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t351",
+    "text": "बिना लक्ष्य के इंसान,\nबिना पतवार की नाव की तरह होता है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t352",
+    "text": "All our dreams can come true if we have the courage to pursue them.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t353",
+    "text": "जो लोग दूसरों को नीचे गिराने की कोशिश करते हैं,\nवे कभी ऊपर नहीं उठ सकते।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t354",
+    "text": "The true test of character is not how much we know how to do, but how we behave when we don't know what to do.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t355",
+    "text": "ज्ञान आपको शक्ति देगा,\nलेकिन चरित्र आपको सम्मान देगा।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t356",
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t357",
+    "text": "आपकी सबसे बड़ी संपत्ति आपका दिमाग है,\nइसे सही जगह इस्तेमाल करें।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t358",
+    "text": "Creativity is intelligence having fun.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t359",
+    "text": "समय कभी लौटकर नहीं आता,\nइसलिए इसका सही उपयोग करें।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t360",
+    "text": "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t361",
+    "text": "अपने काम में इस हद तक डूब जाओ,\nकि सफलता को खुद तुम्हारे पास आना पड़े।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t362",
+    "text": "The starting point of all achievement is desire.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t363",
+    "text": "हर चुनौती आपको कुछ नया सिखाने के लिए आती है,\nउससे डरो मत बल्कि उसका सामना करो।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t364",
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t365",
+    "text": "सकारात्मक रवैया,\nआपकी आधी परेशानियों का हल है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t366",
+    "text": "You don't cross the sea merely by standing and staring at the water.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t367",
+    "text": "जिंदगी में कोई शॉर्टकट नहीं होता,\nकामयाबी हमेशा मेहनत से ही मिलती है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t368",
+    "text": "I attribute my success to this: I never gave or took any excuse.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t369",
+    "text": "जब आप अपनी गलतियों को स्वीकार करते हैं,\nतो आप उन्हें सुधारने का पहला कदम उठाते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t370",
+    "text": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t371",
+    "text": "अगर आप कुछ अलग करना चाहते हैं,\nतो आपको कुछ अलग सोचना भी होगा।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t372",
+    "text": "A person who never made a mistake never tried anything new.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t373",
+    "text": "जिंदगी में हार जीत तो लगी रहती है,\nलेकिन हिम्मत हारना सबसे बड़ी हार है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t374",
+    "text": "There is no substitute for hard work.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t375",
+    "text": "आपकी मेहनत का फल आपको कभी न कभी,\nकिसी न किसी रूप में जरूर मिलता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t376",
+    "text": "To handle yourself, use your head; to handle others, use your heart.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t377",
+    "text": "खुद पर यकीन रखो,\nफिर देखना तुम्हें रोकने वाला कोई नहीं होगा।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t378",
+    "text": "Too many of us are not living our dreams because we are living our fears.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t379",
+    "text": "मेहनत कभी बेकार नहीं जाती,\nयह आपको आपके लक्ष्य तक ज़रूर पहुँचाएगी।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t380",
+    "text": "I didn’t fail the test. I just found 100 ways to do it wrong.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t381",
+    "text": "जब लोग आपकी आलोचना करें,\nतो समझ लीजिए आप सही रास्ते पर हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t382",
+    "text": "A truly rich man is one whose children run into his arms when his hands are empty.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t383",
+    "text": "जीवन में आगे बढ़ने के लिए,\nपुरानी आदतों को छोड़ना बहुत जरूरी है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t384",
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t385",
+    "text": "हमेशा बड़ा सोचो और उसे पाने के लिए,\nअपनी पूरी जान लगा दो।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t386",
+    "text": "It is never too late to be what you might have been.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t387",
+    "text": "अगर आप किसी काम में सौ प्रतिशत देंगे,\nतो सफलता भी आपको सौ प्रतिशत मिलेगी।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t388",
+    "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t389",
+    "text": "मुश्किलों से घबराना नहीं चाहिए,\nबल्कि उनका डटकर सामना करना चाहिए।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t390",
+    "text": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t391",
+    "text": "अगर आप कुछ नहीं करेंगे,\nतो कुछ भी नहीं बदलेगा।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t392",
+    "text": "First, have a definite, clear practical ideal; a goal, an objective.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t393",
+    "text": "अच्छे विचारों को अपने दिमाग में आने दें,\nक्योंकि विचार ही आपका भविष्य तय करते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t394",
+    "text": "It is our choices, that show what we truly are, far more than our abilities.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t395",
+    "text": "जिंदगी में कोई भी काम छोटा नहीं होता,\nहर काम की अपनी एक अलग अहमियत होती है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t396",
+    "text": "Try not to become a man of success. Rather become a man of value.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t397",
+    "text": "सफलता पाने के लिए,\nआपको असफलता के डर को दूर करना होगा।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t398",
+    "text": "There are no traffic jams along the extra mile.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t399",
+    "text": "अगर आप अपनी गलतियों को नहीं सुधारेगे,\nतो आप कभी सफल नहीं हो सकते।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t400",
+    "text": "Build your own dreams, or someone else will hire you to build theirs.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t401",
+    "text": "जीवन में कोई भी परेशानी इतनी बड़ी नहीं होती,\nकि उसे हल ना किया जा सके।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t402",
+    "text": "Education costs money. But then so does ignorance.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t403",
+    "text": "जो लोग दूसरों की मदद करते हैं,\nप्रकृति हमेशा उनकी मदद करती है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t404",
+    "text": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t405",
+    "text": "अगर आप अपने समय का सही इस्तेमाल करेंगे,\nतो आप जिंदगी में कुछ भी हासिल कर सकते हैं।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t406",
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t407",
+    "text": "खुश रहने का सबसे अच्छा तरीका यह है,\nकि आप दूसरों से कोई उम्मीद न रखें।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t408",
+    "text": "Teach thy tongue to say, 'I do not know', and thou shalt progress.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t409",
+    "text": "कामयाब लोग अपने समय का सही इस्तेमाल करते हैं,\nजबकि नाकामयाब लोग अपना समय बर्बाद करते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t410",
+    "text": "Our lives begin to end the day we become silent about things that matter.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t411",
+    "text": "सफलता केवल एक रात में नहीं मिलती,\nइसके लिए कई रातों की नींद गंवानी पड़ती है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t412",
+    "text": "Do what you feel in your heart to be right – for you’ll be criticized anyway.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t413",
+    "text": "अगर आप अपने सपनों को सच करना चाहते हैं,\nतो आपको अपने कंफर्ट जोन से बाहर आना होगा।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t414",
+    "text": "Happiness is not by chance, but by choice.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t415",
+    "text": "हमेशा याद रखें कि आपकी हर समस्या का,\nएक समाधान ज़रूर होता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t416",
+    "text": "If you want to lift yourself up, lift up someone else.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t417",
+    "text": "अगर आप किसी काम को पूरे मन से करेंगे,\nतो आपको उसमें ज़रूर सफलता मिलेगी।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t418",
+    "text": "You must expect great things of yourself before you can do them.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t419",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा नई चीज़ें सीखते रहें।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t420",
+    "text": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t421",
+    "text": "अगर आप अपने काम को एन्जॉय करेंगे,\nतो आप कभी भी काम करते हुए नहीं थकेंगे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t422",
+    "text": "Only put off until tomorrow what you are willing to die having left undone.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t423",
+    "text": "सफलता केवल धन और दौलत से नहीं मापी जाती,\nबल्कि आपकी ख़ुशी और संतुष्टि से भी मापी जाती है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t424",
+    "text": "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t425",
+    "text": "अगर आप दूसरों की भलाई के लिए काम करेंगे,\nतो आपको हमेशा सम्मान मिलेगा।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t426",
+    "text": "The greatest discovery of all time is that a person can change his future by merely changing his attitude.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t427",
+    "text": "हमेशा अपने दिल की सुनें,\nक्योंकि आपका दिल हमेशा सही रास्ता दिखाता है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t428",
+    "text": "The only difference between ordinary and extraordinary is that little extra.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t429",
+    "text": "अगर आप अपने काम को ईमानदारी से करेंगे,\nतो आपको सफलता पाने से कोई नहीं रोक सकता।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t430",
+    "text": "Definiteness of purpose is the starting point of all achievement.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t431",
+    "text": "जीवन में हमेशा कुछ नया करने का प्रयास करें,\nक्योंकि पुरानी चीज़ें आपको कभी भी आगे नहीं बढ़ने देंगी।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t432",
+    "text": "Your most unhappy customers are your greatest source of learning.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t433",
+    "text": "अगर आप दूसरों को प्रेरित करेंगे,\nतो आप खुद भी प्रेरित होंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t434",
+    "text": "Keep your face to the sunshine and you cannot see a shadow.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t435",
+    "text": "अगर आप अपने जीवन में सकारात्मक बदलाव लाना चाहते हैं,\nतो सबसे पहले अपनी सोच को बदलें।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t436",
+    "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t437",
+    "text": "जिंदगी में कोई भी काम असंभव नहीं होता,\nबस उसे करने के लिए दृढ़ संकल्प और मेहनत की ज़रूरत होती है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t438",
+    "text": "If you look at what you have in life, you'll always have more.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t439",
+    "text": "अगर आप हमेशा खुद पर विश्वास रखेंगे,\nतो आप कोई भी मुकाम हासिल कर सकते हैं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t440",
+    "text": "In order to succeed, your desire for success should be greater than your fear of failure.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t441",
+    "text": "सफलता केवल उन्हें मिलती है,\nजो इसे पाने के लिए लगातार प्रयास करते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t442",
+    "text": "I attribute my success to this: I never gave or took any excuse.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t443",
+    "text": "अगर आप हमेशा अपने लक्ष्य पर ध्यान केंद्रित करेंगे,\nतो आप इसे जरूर हासिल कर लेंगे।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t444",
+    "text": "You can't use up creativity. The more you use, the more you have.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t445",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा सकारात्मक सोच रखना बहुत जरूरी है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t446",
+    "text": "If you don't build your dream, someone else will hire you to help them build theirs.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t447",
+    "text": "अगर आप हमेशा अपने काम में सौ प्रतिशत देंगे,\nतो आपको कोई भी सफल होने से नहीं रोक सकता।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t448",
+    "text": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t449",
+    "text": "अगर आप दूसरों की भलाई के लिए काम करेंगे,\nतो प्रकृति हमेशा आपकी भलाई के लिए काम करेगी।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t450",
+    "text": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t451",
+    "text": "अगर आप अपने समय का सही इस्तेमाल करेंगे,\nतो आप कोई भी मुकाम हासिल कर सकते हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t452",
+    "text": "A person who never made a mistake never tried anything new.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t453",
+    "text": "सफलता केवल धन और दौलत से नहीं मापी जाती,\nबल्कि आपकी ख़ुशी और संतुष्टि से भी मापी जाती है।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t454",
+    "text": "I would rather die of passion than of boredom.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t455",
+    "text": "अगर आप हमेशा अपने दिल की सुनेंगे,\nतो आप कभी भी गलत रास्ता नहीं चुनेंगे।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t456",
+    "text": "We become what we think about.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t457",
+    "text": "अगर आप अपने काम को पूरी लगन के साथ करेंगे,\nतो आपको उसमें ज़रूर सफलता मिलेगी।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t458",
+    "text": "The mind is everything. What you think you become.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t459",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा नई चीज़ें सीखते रहें।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t460",
+    "text": "Either you run the day, or the day runs you.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t461",
+    "text": "अगर आप अपने काम को एन्जॉय करेंगे,\nतो आप कभी भी काम करते हुए नहीं थकेंगे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t462",
+    "text": "Every strike brings me closer to the next home run.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t463",
+    "text": "अगर आप दूसरों को प्रेरित करेंगे,\nतो आप खुद भी प्रेरित होंगे।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t464",
+    "text": "Your time is limited, so don’t waste it living someone else’s life.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t465",
+    "text": "अगर आप अपने जीवन में सकारात्मक बदलाव लाना चाहते हैं,\nतो सबसे पहले अपनी सोच को बदलें।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t466",
+    "text": "Winning isn’t everything, but wanting to win is.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t467",
+    "text": "जिंदगी में कोई भी काम असंभव नहीं होता,\nबस उसे करने के लिए दृढ़ संकल्प और मेहनत की ज़रूरत होती है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t468",
+    "text": "I am not a product of my circumstances. I am a product of my decisions.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t469",
+    "text": "अगर आप हमेशा खुद पर विश्वास रखेंगे,\nतो आप कोई भी मुकाम हासिल कर सकते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t470",
+    "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t471",
+    "text": "सफलता केवल उन्हें मिलती है,\nजो इसे पाने के लिए लगातार प्रयास करते हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t472",
+    "text": "Whether you think you can or you think you can’t, you’re right.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t473",
+    "text": "अगर आप हमेशा अपने लक्ष्य पर ध्यान केंद्रित करेंगे,\nतो आप इसे जरूर हासिल कर लेंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t474",
+    "text": "The two most important days in your life are the day you are born and the day you find out why.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t475",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा सकारात्मक सोच रखना बहुत जरूरी है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t476",
+    "text": "Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t477",
+    "text": "अगर आप हमेशा अपने काम में सौ प्रतिशत देंगे,\nतो आपको कोई भी सफल होने से नहीं रोक सकता।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t478",
+    "text": "The best revenge is massive success.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t479",
+    "text": "अगर आप दूसरों की भलाई के लिए काम करेंगे,\nतो प्रकृति हमेशा आपकी भलाई के लिए काम करेगी।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t480",
+    "text": "Life shrinks or expands in proportion to one’s courage.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t481",
+    "text": "अगर आप अपने समय का सही इस्तेमाल करेंगे,\nतो आप कोई भी मुकाम हासिल कर सकते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t482",
+    "text": "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t483",
+    "text": "सफलता केवल धन और दौलत से नहीं मापी जाती,\nबल्कि आपकी ख़ुशी और संतुष्टि से भी मापी जाती है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t484",
+    "text": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t485",
+    "text": "अगर आप हमेशा अपने दिल की सुनेंगे,\nतो आप कभी भी गलत रास्ता नहीं चुनेंगे।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t486",
+    "text": "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t487",
+    "text": "अगर आप अपने काम को पूरी लगन के साथ करेंगे,\nतो आपको उसमें ज़रूर सफलता मिलेगी।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t488",
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t489",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा नई चीज़ें सीखते रहें।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t490",
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t491",
+    "text": "अगर आप अपने काम को एन्जॉय करेंगे,\nतो आप कभी भी काम करते हुए नहीं थकेंगे।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t492",
+    "text": "Certain things catch your eye, but pursue only those that capture the heart.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t493",
+    "text": "अगर आप दूसरों को प्रेरित करेंगे,\nतो आप खुद भी प्रेरित होंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t494",
+    "text": "Believe you can and you’re halfway there.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t495",
+    "text": "अगर आप अपने जीवन में सकारात्मक बदलाव लाना चाहते हैं,\nतो सबसे पहले अपनी सोच को बदलें।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t496",
+    "text": "Everything you’ve ever wanted is on the other side of fear.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t497",
+    "text": "जिंदगी में कोई भी काम असंभव नहीं होता,\nबस उसे करने के लिए दृढ़ संकल्प और मेहनत की ज़रूरत होती है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t498",
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t499",
+    "text": "अगर आप हमेशा खुद पर विश्वास रखेंगे,\nतो आप कोई भी मुकाम हासिल कर सकते हैं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t500",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t501",
+    "text": "सफलता का रास्ता कभी सीधा नहीं होता,\nटेढ़े-मेढ़े रास्तों पर चलकर ही मंज़िल मिलती है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t502",
+    "text": "A smooth sea never made a skilled sailor.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t503",
+    "text": "जिंदगी में कभी उदास मत होना,\nक्या पता कल वो दिन हो जिसका आपको सालों से इंतज़ार था।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t504",
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t505",
+    "text": "अगर रास्ते में कांटे हैं,\nतो समझ लेना आप सही रफ़्तार से चल रहे हैं।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t506",
+    "text": "Invest in your dreams. Grind now. Shine later.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t507",
+    "text": "जो अपनी गलतियों को मान लेते हैं,\nवे कभी भी हारते नहीं बल्कि सीखते हैं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t508",
+    "text": "Work until your idols become your rivals.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t509",
+    "text": "किसी को हराना बहुत आसान है,\nलेकिन किसी को जीतना बहुत मुश्किल।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t510",
+    "text": "Be somebody nobody thought you could be.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t511",
+    "text": "जिनकी नज़रों में अपने लक्ष्य की चमक होती है,\nवे रास्तों के अंधेरों से नहीं घबराते।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t512",
+    "text": "Prove yourself to yourself, not others.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t513",
+    "text": "अपने किरदार को इतना मज़बूत बनाओ,\nकि लोग तुम्हें गिराने की कोशिश में खुद गिर जाएं।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t514",
+    "text": "The comeback is always stronger than the setback.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t515",
+    "text": "हर दिन की शुरुआत एक नई सोच के साथ करें।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t516",
+    "text": "Stars can't shine without darkness.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t517",
+    "text": "संघर्ष के बिना कोई भी इंसान अपनी असली कीमत नहीं जान सकता।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t518",
+    "text": "Hustle until your haters ask if you're hiring.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t519",
+    "text": "कल के लिए सबसे अच्छी तैयारी यही है कि,\nआज बेहतरीन काम किया जाए।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t520",
+    "text": "Work hard, stay disciplined and be patient. Your time will come.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t521",
+    "text": "समय का चक्र बहुत तेज़ है,\nइसलिए किसी का मज़ाक मत उड़ाओ।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t522",
+    "text": "Your life does not get better by chance, it gets better by change.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t523",
+    "text": "तालाब की तरह शांत रहो,\nलेकिन अपनी गहराई कभी किसी को मत बताओ।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t524",
+    "text": "If you want to fly, give up everything that weighs you down.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t525",
+    "text": "जिनके ख्यालों में उड़ान होती है,\nवे ज़मीन पर रहकर भी आसमान छू लेते हैं।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t526",
+    "text": "You are one decision away from a completely different life.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t527",
+    "text": "परिणाम की चिंता मत करो,\nअपने कर्म को पूरी ईमानदारी से करो।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t528",
+    "text": "It's not about perfect. It's about effort.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t529",
+    "text": "सोच बदलो, सितारे बदल जाएंगे,\nनज़र बदलो, नज़ारे बदल जाएंगे।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t530",
+    "text": "The secret of your future is hidden in your daily routine.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t531",
+    "text": "जो लोग दूसरों की जीत पर तालियां बजाते हैं,\nईश्वर उनके लिए तालियां बजवाता है।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t532",
+    "text": "Be stubborn about your goals and flexible about your methods.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t533",
+    "text": "खुद पर खर्च किया गया समय,\nजिंदगी का सबसे अच्छा निवेश है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t534",
+    "text": "The best view comes after the hardest climb.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t535",
+    "text": "आपकी सबसे बड़ी ताक़त,\nआपकी अपनी सोच है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t536",
+    "text": "Never announce your moves before you make them.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t537",
+    "text": "अगर आप कुछ ऐसा पाना चाहते हैं जो मुश्किल है,\nतो आपको ऐसा बनना होगा जो मज़बूत है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t538",
+    "text": "Doubt your doubts before you doubt your faith.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t539",
+    "text": "धूप का अनुभव तभी होता है,\nजब हम छाँव से बाहर आते हैं।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t540",
+    "text": "Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t541",
+    "text": "ईश्वर की न्याय चक्की थोड़ी धीमी ज़रूर चलती है,\nलेकिन पीसती बहुत बारीक है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t542",
+    "text": "Train your mind to see the good in every situation.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t543",
+    "text": "अगर आप किसी चीज़ की कल्पना कर सकते हैं,\nतो आप उसे साकार भी कर सकते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t544",
+    "text": "A negative mind will never give you a positive life.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t545",
+    "text": "मेहनत का पसीना जब बहता है,\nतो कामयाबी की फसल अपने आप लहलहा उठती है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t546",
+    "text": "Focus on your goals, not your fear.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t547",
+    "text": "आपका भविष्य वही होगा,\nजो आप आज अपने हाथों से गढ़ेंगे।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t548",
+    "text": "If you don’t sacrifice for what you want, what you want becomes the sacrifice.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t549",
+    "text": "कठिनाइयां केवल हमारे इरादों को मज़बूत करने आती हैं,\nउन्हें तोड़ने नहीं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t550",
+    "text": "Let your faith be bigger than your fear.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t551",
+    "text": "सच्चे इंसान को कभी भी अपनी सफाई देने की ज़रूरत नहीं पड़ती।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t552",
+    "text": "Small steps in the right direction can turn out to be the biggest step of your life.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t553",
+    "text": "जब आप हार मानने लगें,\nतो याद करें कि आपने शुरुआत क्यों की थी।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t554",
+    "text": "Your focus determines your reality.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t555",
+    "text": "जो हमेशा अपनी गलतियों पर विचार करता है,\nवह एक दिन महान ज़रूर बनता है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t556",
+    "text": "Every day is a second chance.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t557",
+    "text": "सफलता का पहला नियम:\nकभी भी हार मत मानो।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t558",
+    "text": "Nothing is stronger than a broken man rebuilding himself.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t559",
+    "text": "हमेशा वही रास्ता चुनें जो सही हो,\nन कि वो जो आसान हो।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t560",
+    "text": "A year from now you will wish you had started today.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t561",
+    "text": "अपनी ऊर्जा को उन चीज़ों पर खर्च करें,\nजो आपके लिए सच में मायने रखती हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t562",
+    "text": "Never let success get to your head and never let failure get to your heart.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t563",
+    "text": "खुद की तुलना कभी किसी से मत करो,\nसूर्य और चंद्रमा दोनों ही अपने-अपने समय पर चमकते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t564",
+    "text": "The harder you fall, the higher you bounce.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t565",
+    "text": "जिंदगी में कुछ भी मुफ्त नहीं मिलता,\nहर चीज़ की एक कीमत होती है जिसे चुकाना पड़ता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t566",
+    "text": "Pain is temporary. Quitting lasts forever.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t567",
+    "text": "सकारात्मक ऊर्जा हमेशा सकारात्मक परिणाम ही लाती है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t568",
+    "text": "Success is what you do with your ability.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t569",
+    "text": "अकेले चलना सीखें,\nक्योंकि भीड़ हमेशा आपको भटका सकती है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t570",
+    "text": "What consumes your mind controls your life.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t571",
+    "text": "अगर आप कुछ बदलना चाहते हैं,\nतो सबसे पहले खुद को बदलें।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t572",
+    "text": "Make it happen. Shock everyone.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t573",
+    "text": "सफलता केवल भाग्य का खेल नहीं है,\nयह निरंतर मेहनत का फल है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t574",
+    "text": "Do what is right, not what is easy.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t575",
+    "text": "हर दिन कुछ ऐसा करें जो आपको आपके लक्ष्य के करीब ले जाए।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t576",
+    "text": "Growth is uncomfortable, but so is staying stuck.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t577",
+    "text": "अपने सपनों की उड़ान को किसी के कहने पर मत रोको।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t578",
+    "text": "Be so good they can't ignore you.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t579",
+    "text": "अगर आप कुछ बेहतर करना चाहते हैं,\nतो आपको अपने आलस्य को छोड़ना होगा।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t580",
+    "text": "Success starts with self-discipline.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t581",
+    "text": "सफलता की सीढ़ी पर चढ़ते समय,\nकभी भी किसी को नीचे न गिराएं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t582",
+    "text": "In the middle of difficulty lies opportunity.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t583",
+    "text": "जिंदगी एक कैनवास है,\nइस पर अपनी मेहनत से सबसे खूबसूरत रंग भरें।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t584",
+    "text": "A river cuts through rock not because of its power but because of its persistence.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t585",
+    "text": "कभी-कभी आपको अपने ही नियमों को तोड़ना पड़ता है,\nकुछ नया और बड़ा हासिल करने के लिए।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t586",
+    "text": "Mistakes are proof that you are trying.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t587",
+    "text": "अगर आप अपनी गलतियों को सुधारते नहीं हैं,\nतो वे आपकी आदत बन जाती हैं।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t588",
+    "text": "Success is liking yourself, liking what you do, and liking how you do it.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t589",
+    "text": "हमेशा उस काम को करें जो आपके दिल को सही लगे।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t590",
+    "text": "Keep your inner peace at all times.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t591",
+    "text": "जिंदगी आपको वो नहीं देती जो आप चाहते हैं,\nबल्कि वो देती है जिसके आप लायक होते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t592",
+    "text": "It takes courage to grow up and become who you really are.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t593",
+    "text": "सफलता केवल एक शब्द है,\nअसली बात तो आपके प्रयास में है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t594",
+    "text": "Never apologize for having high standards.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t595",
+    "text": "अगर आप अपने मन पर नियंत्रण पा लेंगे,\nतो आप दुनिया जीत सकते हैं।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t596",
+    "text": "You get what you focus on, so focus on what you want.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t597",
+    "text": "विपरीत परिस्थितियां इंसान को,\nसबसे मूल्यवान सबक सिखाती हैं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t598",
+    "text": "No pressure, no diamonds.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t599",
+    "text": "अगर आपका इरादा साफ़ है,\nतो आपको मंज़िल तक पहुँचने से कोई नहीं रोक सकता।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t600",
+    "text": "Tears will get you sympathy; sweat will get you results.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t601",
+    "text": "जब रास्ते बंद दिखाई दें,\nतो खुद के लिए नया रास्ता बना लें।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t602",
+    "text": "Sometimes you win, sometimes you learn.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t603",
+    "text": "अगर आप धैर्य रखना जानते हैं,\nतो आप जीवन में सब कुछ पा सकते हैं।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t604",
+    "text": "Success does not come from what you do occasionally, but what you do consistently.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t605",
+    "text": "सच्चा विजेता वही होता है,\nजो हारने के बाद भी दोबारा कोशिश करता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t606",
+    "text": "Limitations live only in our minds.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t607",
+    "text": "अगर आप कुछ बेहतर करना चाहते हैं,\nतो हमेशा खुद को अपडेट रखें।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t608",
+    "text": "Great things are done by a series of small things brought together.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t609",
+    "text": "मंज़िल की तलाश में भटकना गलत नहीं है,\nगलत तो बिना कोशिश किये घर बैठ जाना है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t610",
+    "text": "Be stronger than your strongest excuse.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t611",
+    "text": "जिंदगी में कोई भी चीज़ आसानी से नहीं मिलती,\nइसके लिए कीमत चुकानी ही पड़ती है।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t612",
+    "text": "Don't stop when it hurts, stop when you're done.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t613",
+    "text": "अगर आप हमेशा सच का साथ देंगे,\nतो आपकी अंतरात्मा हमेशा शांत रहेगी।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t614",
+    "text": "The expert in anything was once a beginner.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t615",
+    "text": "सफलता केवल वही पाते हैं,\nजिनके सपनों में जान और कोशिशों में ईमानदारी होती है।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t616",
+    "text": "Your past does not equal your future.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t617",
+    "text": "अगर आप हमेशा डरकर जिएंगे,\nतो आप जिंदगी का असली मज़ा कभी नहीं ले पाएंगे।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t618",
+    "text": "To change your life, you need to change your priorities.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t619",
+    "text": "अगर आप दूसरों का सम्मान करेंगे,\nतो दुनिया आपका भी सम्मान करेगी।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t620",
+    "text": "Knowledge is power, but enthusiasm pulls the switch.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t621",
+    "text": "सफलता की कुंजी आपकी सकारात्मक सोच है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t622",
+    "text": "Don't let the noise of others' opinions drown out your own inner voice.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t623",
+    "text": "अपनी कमियों को अपनी ताकत बनाओ,\nफिर देखना तुम्हें कोई नहीं हरा सकता।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t624",
+    "text": "A problem is a chance for you to do your best.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t625",
+    "text": "अगर आपको खुद पर विश्वास है,\nतो आप हर मुश्किल को पार कर सकते हैं।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t626",
+    "text": "If it scares you, it might be a good thing to try.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t627",
+    "text": "जिंदगी में कोई भी पल बेकार नहीं जाता,\nहर पल आपको कुछ नया सिखाता है।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t628",
+    "text": "Always pass on what you have learned.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t629",
+    "text": "अगर आप अपनी गलतियों को नहीं मानेंगे,\nतो आप कभी आगे नहीं बढ़ पाएंगे।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t630",
+    "text": "Energy and persistence conquer all things.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t631",
+    "text": "सफलता केवल एक बार में नहीं मिलती,\nइसके लिए बार-बार प्रयास करने पड़ते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t632",
+    "text": "Nothing great was ever achieved without enthusiasm.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t633",
+    "text": "अगर आप जीवन में शांति चाहते हैं,\nतो दूसरों से उम्मीद करना छोड़ दें।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t634",
+    "text": "Do not let the behavior of others destroy your inner peace.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t635",
+    "text": "अगर आप अपने काम को प्यार से करेंगे,\nतो सफलता खुद आपके पास चलकर आएगी।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t636",
+    "text": "Work hard, be kind, and amazing things will happen.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t637",
+    "text": "जीवन में आगे बढ़ने के लिए,\nहमेशा पुरानी आदतों को छोड़ना होता है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t638",
+    "text": "Focus on the journey, not the destination.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t639",
+    "text": "अगर आप दूसरों की मदद करेंगे,\nतो आपकी भी मदद करने वाले लोग खुद-ब-खुद आ जाएंगे।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t640",
+    "text": "Nothing is impossible. The word itself says 'I'm possible!'",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t641",
+    "text": "जिंदगी में कोई भी काम छोटा नहीं होता,\nबस उसे करने का नज़रिया बड़ा होना चाहिए।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t642",
+    "text": "Do it now. Sometimes 'later' becomes 'never'.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t643",
+    "text": "अगर आप हमेशा सीखते रहेंगे,\nतो आप कभी भी पीछे नहीं रहेंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t644",
+    "text": "Action is the foundational key to unlocking your potential.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t645",
+    "text": "सफलता केवल एक बार प्रयास करने से नहीं,\nलगातार डटे रहने से मिलती है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t646",
+    "text": "Believe in your infinite potential.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t647",
+    "text": "अगर आप खुद से प्यार करना सीखेंगे,\nतो दुनिया भी आपसे प्यार करेगी।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t648",
+    "text": "Strive not to be a success, but rather to be of value.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t649",
+    "text": "जिंदगी में कभी हार मत मानना,\nक्योंकि हार के बाद ही असली जीत मिलती है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t650",
+    "text": "Motivation gets you going, but discipline keeps you growing.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t651",
+    "text": "अगर आप दूसरों की बुराई करेंगे,\nतो आपके अंदर की अच्छाई भी ख़त्म हो जाएगी।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t652",
+    "text": "The harder the battle, the sweeter the victory.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t653",
+    "text": "सफलता केवल धन नहीं है,\nबल्कि मन की असीम शांति है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t654",
+    "text": "Make your life a masterpiece; imagine no limitations.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t655",
+    "text": "अगर आप हमेशा खुश रहना चाहते हैं,\nतो दूसरों से अपनी तुलना करना बंद कर दें।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t656",
+    "text": "Live your life, take chances, be crazy.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t657",
+    "text": "जिंदगी में कोई भी काम आसान नहीं होता,\nउसे आसान बनाना पड़ता है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t658",
+    "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t659",
+    "text": "अगर आप हमेशा सच बोलेंगे,\nतो आपको कभी भी कुछ याद रखने की ज़रूरत नहीं पड़ेगी।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t660",
+    "text": "Courage doesn't mean you don't get afraid. Courage means you don't let fear stop you.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t661",
+    "text": "सफलता की पहली शर्त है:\nअपने काम के प्रति पूरी तरह से समर्पित होना।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t662",
+    "text": "Stay focused, ignore the distractions, and you will accomplish your goals much faster.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t663",
+    "text": "अगर आप दूसरों की इज्ज़त करेंगे,\nतो आपको भी बदले में इज़्ज़त ही मिलेगी।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t664",
+    "text": "You can change your world by changing your words.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t665",
+    "text": "जिंदगी में कभी किसी को कमज़ोर मत समझना,\nक्योंकि हर इंसान की अपनी एक अलग ताकत होती है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t666",
+    "text": "Don’t tell me the sky's the limit when there are footprints on the moon.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t667",
+    "text": "अगर आप अपनी असफलताओं से सीखेंगे,\nतो आप बहुत जल्द सफलता की सीढ़ी चढ़ेंगे।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t668",
+    "text": "Patience is a key element of success.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t669",
+    "text": "सफलता केवल एक मंज़िल नहीं है,\nबल्कि हर दिन बेहतर बनने की एक प्रक्रिया है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t670",
+    "text": "Don't let the past dictate who you are, but let it be part of who you will become.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t671",
+    "text": "अगर आप हमेशा शांत रहेंगे,\nतो आप हर मुश्किल का हल आसानी से निकाल पाएंगे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t672",
+    "text": "A clear vision, backed by definite plans, gives you a tremendous feeling of confidence.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t673",
+    "text": "सफलता केवल उन्हें नहीं मिलती जो कभी गिरते नहीं,\nबल्कि उन्हें मिलती है जो गिरकर फिर से खड़े हो जाते हैं।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t674",
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t675",
+    "text": "अगर आप अपने काम को इबादत मानेंगे,\nतो आपको सफल होने से कोई नहीं रोक सकता।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t676",
+    "text": "Change is the law of life.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t677",
+    "text": "जिंदगी में कोई भी फैसला जल्दबाज़ी में मत लें,\nक्योंकि जल्दबाज़ी में लिए गए फैसले अक्सर गलत होते हैं।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t678",
+    "text": "When you have a dream, you've got to grab it and never let go.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t679",
+    "text": "अगर आप अपने क्रोध पर नियंत्रण पा लेंगे,\nतो आप अपनी आधी समस्याओं को खत्म कर देंगे।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t680",
+    "text": "What you lack in talent can be made up with desire, hustle and giving 110% all the time.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t681",
+    "text": "सफलता की इमारत,\nमेहनत और ईमानदारी की नींव पर ही खड़ी होती है।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t682",
+    "text": "To be the best, you must be able to handle the worst.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t683",
+    "text": "अगर आप हमेशा दूसरों की गलतियां निकालेंगे,\nतो आप अपनी गलतियों को कभी नहीं सुधार पाएंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t684",
+    "text": "A head full of fears has no space for dreams.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t685",
+    "text": "जिंदगी में कोई भी काम करते समय,\nहमेशा अपना सर्वश्रेष्ठ दें।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t686",
+    "text": "Don't let mental blocks control you. Set yourself free.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t687",
+    "text": "अगर आप अपनी सोच को सकारात्मक रखेंगे,\nतो आपकी जिंदगी अपने आप सकारात्मक हो जाएगी।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t688",
+    "text": "Only those who dare to fail greatly can ever achieve greatly.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t689",
+    "text": "सफलता केवल भाग्य पर निर्भर नहीं करती,\nबल्कि यह आपके कर्मों का फल है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t690",
+    "text": "Success is discovering your best talents, skills, and abilities and applying them where they will make the most effective contribution.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t691",
+    "text": "अगर आप दूसरों की भावनाओं की कद्र करेंगे,\nतो आप हमेशा सम्मान पाएंगे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t692",
+    "text": "Every problem is a gift - without problems we would not grow.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t693",
+    "text": "सफलता की सबसे बड़ी चाबी,\nआपकी अपनी आत्मविश्वास है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t694",
+    "text": "I will not let anyone walk through my mind with their dirty feet.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t695",
+    "text": "अगर आप हमेशा खुद पर गर्व महसूस करेंगे,\nतो आपका आत्मविश्वास कभी कम नहीं होगा।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t696",
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t697",
+    "text": "जिंदगी में कोई भी चीज़ हमेशा के लिए नहीं रहती,\nइसलिए हर पल का आनंद लें।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t698",
+    "text": "Action is the bridge between the inner world and the outer world.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t699",
+    "text": "अगर आप हमेशा दूसरों को মাफ़ करना सीखेंगे,\nतो आपकी आत्मा को हमेशा शांति मिलेगी।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t700",
+    "text": "When you want to succeed as bad as you want to breathe, then you'll be successful.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t701",
+    "text": "सफलता के लिए सबसे ज़रूरी है,\nअपने लक्ष्य के प्रति एकाग्रता बनाए रखना।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t702",
+    "text": "A truly strong person does not need the approval of others any more than a lion needs the approval of sheep.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t703",
+    "text": "अगर आप अपने सपनों को सच करना चाहते हैं,\nतो आपको उन्हें हकीकत में बदलने की योजना बनानी होगी।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t704",
+    "text": "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t705",
+    "text": "जिंदगी में कभी किसी को धोखा मत देना,\nक्योंकि धोखा देने वाला एक दिन खुद भी धोखा खाता है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t706",
+    "text": "Your past mistakes are meant to guide you, not define you.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t707",
+    "text": "अगर आप हमेशा दूसरों की खुशियों में शामिल होंगे,\nतो आपकी अपनी खुशियां अपने आप दोगुनी हो जाएंगी।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t708",
+    "text": "To achieve greatness one should live as if they will never die.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t709",
+    "text": "सफलता केवल एक बार में नहीं मिलती,\nयह बार-बार की गई कोशिशों का परिणाम है।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t710",
+    "text": "We cannot solve our problems with the same thinking we used when we created them.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t711",
+    "text": "अगर आप हमेशा दूसरों को प्रेरित करेंगे,\nतो आप एक सच्चे लीडर बन जाएंगे।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t712",
+    "text": "Be so completely yourself that everyone else feels safe to be themselves, too.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t713",
+    "text": "सफलता की राह में रुकावटें तो आएंगी,\nलेकिन आपको उनसे पार पाना होगा।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t714",
+    "text": "Never let your fear decide your future.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t715",
+    "text": "अगर आप हमेशा सीखते रहेंगे,\nतो आपका ज्ञान हमेशा बढ़ता रहेगा।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t716",
+    "text": "Your only limit is your soul.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t717",
+    "text": "जिंदगी में कोई भी काम अधूरा मत छोड़ना,\nउसे पूरा करने की पूरी कोशिश करना।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t718",
+    "text": "In the end, we only regret the chances we didn't take.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t719",
+    "text": "अगर आप हमेशा सत्य का मार्ग चुनेंगे,\nतो आपको कभी भी भटकने का डर नहीं रहेगा।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t720",
+    "text": "If you don't fight for what you want, don't cry for what you lost.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t721",
+    "text": "सफलता केवल उन्हें मिलती है,\nजो इसे पाने के लिए कड़ा संघर्ष करते हैं।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t722",
+    "text": "Make your life a mission - not an intermission.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t723",
+    "text": "अगर आप अपने काम को पूजा मानेंगे,\nतो सफलता आपको ईश्वर के आशीर्वाद की तरह मिलेगी।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t724",
+    "text": "Never bend your head. Always hold it high. Look the world straight in the eye.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t725",
+    "text": "जिंदगी में हमेशा आगे बढ़ते रहना,\nरुकना तो हार मानने के बराबर है।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t726",
+    "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t727",
+    "text": "अगर आप हमेशा सकारात्मक लोगों के साथ रहेंगे,\nतो आपका जीवन भी सकारात्मक हो जाएगा।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t728",
+    "text": "Whatever you are, be a good one.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t729",
+    "text": "सफलता की कोई निश्चित उम्र नहीं होती,\nआप जब चाहें सफलता प्राप्त कर सकते हैं।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t730",
+    "text": "Success isn't about the end result, it's about what you learn along the way.",
+    "bgColor": "0xFFFF6F00"
+  },
+  {
+    "id": "t731",
+    "text": "अगर आप अपनी गलतियों को स्वीकार करते हैं,\nतो आप जीवन में बहुत आगे बढ़ सकते हैं।",
+    "bgColor": "0xFF827717"
+  },
+  {
+    "id": "t732",
+    "text": "Take the risk or lose the chance.",
+    "bgColor": "0xFF1B5E20"
+  },
+  {
+    "id": "t733",
+    "text": "जिंदगी में कोई भी पल बेकार नहीं जाता,\nहर अनुभव आपको कुछ नया सिखाता है।",
+    "bgColor": "0xFF004D40"
+  },
+  {
+    "id": "t734",
+    "text": "You are confined only by the walls you build yourself.",
+    "bgColor": "0xFF006064"
+  },
+  {
+    "id": "t735",
+    "text": "अगर आप हमेशा खुद पर विश्वास रखेंगे,\nतो आप कभी भी हार नहीं मानेंगे।",
+    "bgColor": "0xFF01579B"
+  },
+  {
+    "id": "t736",
+    "text": "If you cannot do great things, do small things in a great way.",
+    "bgColor": "0xFF0D47A1"
+  },
+  {
+    "id": "t737",
+    "text": "सफलता केवल एक मंज़िल नहीं है,\nयह हर दिन खुद को बेहतर बनाने की एक यात्रा है।",
+    "bgColor": "0xFF1A3B3A"
+  },
+  {
+    "id": "t738",
+    "text": "Fall down seven times, stand up eight.",
+    "bgColor": "0xFF231B34"
+  },
+  {
+    "id": "t739",
+    "text": "अगर आप हमेशा दूसरों का सम्मान करेंगे,\nतो आपको भी समाज में इज़्ज़त मिलेगी।",
+    "bgColor": "0xFF5D4037"
+  },
+  {
+    "id": "t740",
+    "text": "Dream as if you'll live forever, live as if you'll die today.",
+    "bgColor": "0xFF4E342E"
+  },
+  {
+    "id": "t741",
+    "text": "जिंदगी में कभी भी अपने सपनों से समझौता मत करना।",
+    "bgColor": "0xFF212121"
+  },
+  {
+    "id": "t742",
+    "text": "You miss 100 percent of the shots you never take.",
+    "bgColor": "0xFF37474F"
+  },
+  {
+    "id": "t743",
+    "text": "अगर आप अपने काम को पूरी लगन और ईमानदारी से करेंगे,\nतो आप निश्चित रूप से सफलता प्राप्त करेंगे।",
+    "bgColor": "0xFF1A237E"
+  },
+  {
+    "id": "t744",
+    "text": "Don't count the days, make the days count.",
+    "bgColor": "0xFF311B92"
+  },
+  {
+    "id": "t745",
+    "text": "सफलता की सबसे बड़ी निशानी यह है,\nकि आप अपने काम से प्यार करने लगें।",
+    "bgColor": "0xFF4A148C"
+  },
+  {
+    "id": "t746",
+    "text": "If you don't value your time, neither will others.",
+    "bgColor": "0xFF880E4F"
+  },
+  {
+    "id": "t747",
+    "text": "अगर आप हमेशा नई चीज़ें सीखते रहेंगे,\nतो आप कभी भी पुराने नहीं होंगे।",
+    "bgColor": "0xFFB71C1C"
+  },
+  {
+    "id": "t748",
+    "text": "Action is the foundational key to all great accomplishments.",
+    "bgColor": "0xFFBF360C"
+  },
+  {
+    "id": "t749",
+    "text": "जिंदगी में हमेशा आगे बढ़ने का लक्ष्य रखें,\nचाहे आपकी रफ़्तार कितनी भी धीमी क्यों न हो।",
+    "bgColor": "0xFFE65100"
+  },
+  {
+    "id": "t750",
+    "text": "Success comes to those who dedicate everything to their passion.",
+    "bgColor": "0xFFFF6F00"
   }
 ]
